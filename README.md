@@ -1,6 +1,6 @@
 <h1> Alura Books </h1>
 
-Projeto realizado durante a Formação Front End T6 - ONE + Alura
+Projeto realizado durante a Formação Front End T6 - ONE Oracle + Alura
 <p>JavaScript: métodos de array</p>
 
 Nesse curso foi desenvolvido o Alura Books, um projeto para uma livraria virtual focada em programação.
